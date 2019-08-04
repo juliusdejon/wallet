@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import './login.dart';
 
-void main() => runApp(Wallet());
+void main() => runApp(LoginPage());
 
 class Wallet extends StatefulWidget {
   @override
